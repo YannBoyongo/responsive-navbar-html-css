@@ -1,1 +1,2 @@
 ## HTML CSS RESPONSIVE NAVBAR
+Within the scope of this project, my aim is to construct a responsive navbar employing only HTML and CSS. The endeavor involves meticulous design considerations to ensure an adaptive navigation bar, accommodating diverse screen dimensions. By eschewing external libraries or frameworks, the focus remains on the fundamental web technologies, fostering simplicity and control in the development process.
